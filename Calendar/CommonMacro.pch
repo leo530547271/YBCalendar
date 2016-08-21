@@ -1,0 +1,34 @@
+//
+//  CommonMacro.pch
+//  Calendar
+//
+//  Created by iLeo-OC on 16/8/19.
+//  Copyright © 2016年 iLeo-OC. All rights reserved.
+//
+
+#ifndef CommonMacro_pch
+#define CommonMacro_pch
+
+#import "NormolMacro.h"
+
+#define YBDayViewDidLongPressed @"YBDayViewDidLongPressed"
+
+#define YBDayViewLongPressDay @"YBDayViewLongPressDay"
+
+#define YBDayViewLongPressedDayMonth @"YBDayViewLongPressedDayMonth"
+
+#define YBCalendarShouldChangeHeight @"YBCalendarShouldChangeHeight"
+
+#define YBCalendarRealHeight @"YBCalendarRealHeight"
+
+#define YBDayViewDidTap @"YBDayViewDidTap"
+
+#define YBDayViewTapDay @"YBDayViewTapDay"
+
+#define YBDayViewTapDayMonth @"YBDayViewTapDayMonth"
+
+#define YBCalendarArriveCurrentPage @"YBCalendarArriveCurrentPage"
+
+#define YBCalendarCurrentPage @"YBCalendarCurrentPage"
+
+#endif /* CommonMacro_pch */
